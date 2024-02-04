@@ -25,8 +25,8 @@ Mobile Design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-using-css-basic-and-flex-tDfqGTPKdU)
+- Live Site URL: [Add live site URL here](https://nobileth.github.io/QR-code-component-using-Css-Flex/)
 
 ## My process
 
